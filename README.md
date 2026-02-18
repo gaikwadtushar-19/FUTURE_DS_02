@@ -2,8 +2,8 @@
 
 📌 Project Overview
 
-Customer churn significantly impacts business revenue and long-term growth. This project analyzes customer retention patterns using a telecom subscription dataset to identify the primary drivers of churn and provide actionable business insights.
-The analysis focuses on understanding who is churning, why they are churning, and how retention can be improved using data-driven decision-making.
+- Customer churn significantly impacts business revenue and long-term growth. This project analyzes customer retention patterns using a telecom subscription dataset to identify the primary drivers of churn and provide actionable business insights.
+- The analysis focuses on understanding who is churning, why they are churning, and how retention can be improved using data-driven decision-making.
 
 🎯 Objectives
 
@@ -14,9 +14,9 @@ The analysis focuses on understanding who is churning, why they are churning, an
 
 📁 Dataset Information
 
-Dataset: Telco Customer Churn Dataset
-Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-Description:
+* Telco Customer Churn Dataset
+* Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+* Description:
 The dataset contains customer demographics, service details, contract information, monthly charges, tenure, and churn status.
 
 🛠 Tools & Technologies Used
